@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud ashour Abd Elrahman</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Ashour Abd Elrahman</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmoudelgmmal&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoudelgmmal" /> </p>
