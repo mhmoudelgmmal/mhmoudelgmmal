@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ashour Abd Elrahman</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A Passionate Frontend Developer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmoudelgmmal&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoudelgmmal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmoudelgmmal" alt="mhmoudelgmmal" /></a> </p>
 
-- 🔭 I’m currently working on **MyStore**
+- 🔭 I’m currently working on **CashLine CMS Project**
 
-- 🌱 I’m currently learning **Vue.js - Node.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **eCommerce Project**
+- 👯 I’m looking to collaborate on **Fintech Project**
 
 - 🤝 I’m looking for help with **Front End Development - Angular**
 
@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **mhmoudashour6@gmail.com**
 
-- 📄 Know about my experiences 
-https://drive.google.com/file/d/1IOb47hH7rTyGsAy1ogKNL9eS0Lydv_k2/view?usp=drivesdk
 
 - ⚡ Fun fact **I think I'm funny as my friends say XD**
 
