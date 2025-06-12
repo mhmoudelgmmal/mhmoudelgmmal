@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmoudelgmmal" alt="mhmoudelgmmal" /></a> </p>
 
-- 🔭 I’m currently working on **CashLine CMS Project**
+- 🔭 I’m currently working on **ATUM Project**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on **Fintech Project**
+- 👯 I’m looking to collaborate on **REMOTE INTERNATIONAL TEAM**
 
 - 🤝 I’m looking for help with **Front End Development - Angular**
 
@@ -22,7 +22,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
-<!-- <a href="https:/www.linkedin.com/in/mahmoud-ashour-abdelrahman/" target="blank"><img align="center" src="https:/www.linkedin.com/in/mahmoud-ashour-abdelrahman/" alt="https:/www.linkedin.com/in/mahmoud-ashour-abdelrahman/" height="30" width="40" /></a>
+<!-- <a href="https:/www.linkedin.com/in/mahmoud-ashour-abdelrahman" target="blank"><img align="center" src="https:/www.linkedin.com/in/mahmoud-ashour-abdelrahman" alt="https:/www.linkedin.com/in/mahmoud-ashour-abdelrahman" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc2fremfzdlgx62-xupskzjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc2fremfzdlgx62-xupskzjq" height="30" width="40" /></a>
 </p> -->
 
