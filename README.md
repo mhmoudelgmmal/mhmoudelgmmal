@@ -55,20 +55,6 @@
 ✅ Zero production build errors
 ```
 
----
-
-## 💼 Professional Experience
-
-| Company | Role | Period |
-|---|---|---|
-| **Bnsights — UAE** | Senior Frontend Angular Engineer | 2025 – Present |
-| **Caelum Middle East** | Senior Frontend Angular Engineer | 2024 – 2025 |
-| **ESG — KSA** | Frontend Angular Engineer | 2025 |
-| **Cash Line MENA** | Frontend Angular Engineer | 2023 – 2024 |
-| **T-Tech** | Frontend Angular Engineer | 2021 – 2023 |
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
