@@ -20,7 +20,7 @@
       Production-ready Angular 21 starter kit with Native Federation, JWT Auth, Dark Mode, Arabic RTL, and CI/CD pipeline.
       <br/><br/>
       🔴 <a href="https://ng-mfe-shell.vercel.app">Live Demo</a> &nbsp;|&nbsp;
-      💰 <a href="https://mhmoudashour.gumroad.com/l/hdditr">Get it for $79</a>
+      💰 <a href="https://mhmoudashour.gumroad.com/l/hdditr">Get it for $10</a>
     </td>
   </tr>
 </table>
