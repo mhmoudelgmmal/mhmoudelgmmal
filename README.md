@@ -75,12 +75,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudelgmmal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhmoudelgmmal" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmoudelgmmal&show_icons=true&locale=en&theme=tokyonight" alt="mhmoudelgmmal" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudelgmmal&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmoudelgmmal&show_icons=true&locale=en&theme=tokyonight)
 
 ---
 
