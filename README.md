@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhmoudelgmmal&label=Profile%20views&color=6d28d9&style=flat" alt="mhmoudelgmmal" />
-  <a href="https://mhmoudashour.gumroad.com/l/hdditr"><img src="https://img.shields.io/badge/NgMFE%20Starter%20Kit-$79-6d28d9?style=flat&logo=angular" alt="NgMFE Starter Kit" /></a>
+  <a href="https://mhmoudashour.gumroad.com/l/hdditr"><img src="https://img.shields.io/badge/NgMFE%20Starter%20Kit-$10-6d28d9?style=flat&logo=angular" alt="NgMFE Starter Kit" /></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working as **Senior Frontend Angular Engineer** at **Bnsights — UAE**
+- 🏢 Currently working as **Senior Frontend Angular Engineer** at **Governmental Project — UAE**
 - 🔭 Building **Micro-Frontend architectures** for UAE & KSA government platforms
 - 💼 4+ years experience in **Angular, MFE, Fintech & Government systems**
 - 🌍 Delivered projects in **UAE, KSA, Egypt, Dominican Republic & Mexico**
