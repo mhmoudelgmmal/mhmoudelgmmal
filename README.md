@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhmoudelgmmal&label=Profile%20views&color=6d28d9&style=flat" alt="mhmoudelgmmal" />
-  <a href="https://mhmoudashour.gumroad.com/l/hdditr"><img src="https://img.shields.io/badge/NgMFE%20Starter%20Kit-$10-6d28d9?style=flat&logo=angular" alt="NgMFE Starter Kit" /></a>
+  <a href="https://mhmoudashour.gumroad.com/l/hdditr"><img src="https://img.shields.io/badge/NgMFE%20Starter%20Kit-$99-6d28d9?style=flat&logo=angular" alt="NgMFE Starter Kit" /></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
       Production-ready Angular 21 starter kit with Native Federation, JWT Auth, Dark Mode, Arabic RTL, and CI/CD pipeline.
       <br/><br/>
       🔴 <a href="https://ng-mfe-shell.vercel.app">Live Demo</a> &nbsp;|&nbsp;
-      💰 <a href="https://mhmoudashour.gumroad.com/l/hdditr">Get it for $10</a>
+      💰 <a href="https://mhmoudashour.gumroad.com/l/hdditr">Get it for $99</a>
     </td>
   </tr>
 </table>
